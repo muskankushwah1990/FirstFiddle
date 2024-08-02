@@ -1,0 +1,232 @@
+.img123{
+    width: 80%;
+
+}
+
+
+.a{
+
+    padding-top: 20px;
+ 
+    text-transform: uppercase;
+   
+    letter-spacing: 3px;
+}
+
+
+.b{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: justify;
+
+}
+
+
+
+
+
+
+
+
+/* media */
+
+@media(max-width: 768px)
+{
+    .img123{
+        width: 100%;
+        margin-top: 30px;
+    }
+}
+
+
+
+.c{
+    background: url(/images/fiddle.png);
+    width: 100%;
+    height: 500px;
+    
+    background-size: cover;
+    background-position: fix;
+
+}
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.moblogo{
+    display: none;
+}
+/*media*/
+@media(max-width: 768px)
+
+{
+    .img123{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .weblogo{
+        display: none;
+    }
+
+    .moblogo{
+        display: block;
+    
+
+    }
+
+    .navbar{
+        background: #fcb21c!important;
+    }
+}
+
+
+
+
+
+
+
+/*about menu*/
+
+.c1{
+    background-image: url(../images/ourimage.jpg);
+    width: 100%;
+    height: 650px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.aa{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    padding-top: 150px;
+}
+
+
+
+.cc{
+    background-image: url(../images/gamebanner.jpg);
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+
+
+
+
+
+
+/* brand menu*/
+
+
+.c2{
+    background-image: url(../images/brands.jpg);
+    width: 100%;
+    height: 616px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*our team*/
+
+
+.c3{
+    background-image: url(../images/ourimage.jpg);
+    width: 100%;
+    height: 616px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.photo1{
+    background-image: url(../images/YPAshok.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-size: cover;
+    padding-top: 7cm;
+}
+
+
+.photo2{
+    background-image: url(../images/B.R.-Sachdeva.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-size: cover;
+    padding-top: 7cm;
+}
+
+
+.photo3{
+    background-image: url(../images/Sagar-Bajaj.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-size: cover;
+    padding-top: 7cm;
+}
+
+
+.photo4{
+    background-image: url(../images/JAY-PHOTO-1-1.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-size: cover;
+    padding-top: 7cm;
+}
+
+
+.photo5{
+    background-image: url(../images/vibhutiPR.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-size: cover;
+    padding-top: 7cm;
+}
+
+/* contact*/
+
+
+.c4{
+    background-image: url(../images/CONTACT-US.jpg);
+    width: 100%;
+    height: 620px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*press release*/
+
+.c5{
+    background-image: url(../images/press-new-1.jpg);
+    width: 100%;
+    height: 630px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
